@@ -1,3 +1,4 @@
 # pspi
-tes 1 2 3
-próba klawiatury
+**Notatki z zajęć Języki programowania.**
+
+*Zadania ćwiczące pętle*
